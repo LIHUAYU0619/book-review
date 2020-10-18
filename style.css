@@ -99,6 +99,10 @@ div{
   /* background-color: rgb(92, 43, 218); */
 }
 
+.row:hover{
+  background-color: rgb(8, 180, 78);
+}
+
 .c-title{
   width:40%;
   border:solid #000;
