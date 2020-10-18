@@ -127,3 +127,12 @@ div{
   border:solid #000;
   border-width:1px 1px 0 1px;
 }
+
+.c-info a:hover{
+  text-decoration: underline;
+}
+
+.bottom{
+  border-bottom: solid black ;
+  border-width: 1px;
+}
