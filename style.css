@@ -132,7 +132,16 @@ div{
   text-decoration: underline;
 }
 
+.c-info a:hover{
+  text-decoration: underline;
+}
+
 .bottom{
+  border-bottom: solid black ;
+  border-width: 1px;
+}
+
+.last{
   border-bottom: solid black ;
   border-width: 1px;
 }
